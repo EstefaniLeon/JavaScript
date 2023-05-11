@@ -9,6 +9,7 @@ Front End learning process and exercises
 ## Table of Contents
 
 - [JavaScript: first steps in the language](https://github.com/EstefaniLeon/JavaScript/tree/master/JavaScript-primeros-pasos)
+- [JS on the Web: Manipulating the DOM with JavaScript](https://github.com/EstefaniLeon/JavaScript/tree/master/JavaScript-manipulando-dom)
 - [Built With 🛠️](#built-with-🛠️)
 - [Contact](#contact)
 

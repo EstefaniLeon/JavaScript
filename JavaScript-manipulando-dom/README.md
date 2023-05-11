@@ -1,4 +1,4 @@
-<h1 align="center">JS en la Web: Manipulación del DOM con JavaScript</h1>
+<h1 align="center">JS on the Web: Manipulating the DOM with JavaScript</h1>
 
 <div align="center">
 Front End learning process and exercises
